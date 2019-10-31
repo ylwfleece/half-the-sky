@@ -1,5 +1,4 @@
-// quotes for the intro
-//
+// Quotes from the intro
 let introQuotes = {
 
     "xiv":
