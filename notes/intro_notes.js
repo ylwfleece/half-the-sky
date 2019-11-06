@@ -61,7 +61,7 @@ let introQuotes = {
 
             ,
 
-            "In the nineteenth century, the central moral challenge was slavery. In the twentieth century, it was the battle against totalitarianism. We believe that in this centruy the paramount moral challenge will be the struggle for gender equality around the world."
+            "In the nineteenth century, the central moral challenge was slavery. In the twentieth century, it was the battle against totalitarianism. We believe that in this century the paramount moral challenge will be the struggle for gender equality around the world."
 
         ]
 
